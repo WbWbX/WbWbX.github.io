@@ -1,8 +1,14 @@
 ---
 ---
-$section-headings-color: #ff0000 !default;
-$body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #3772d1 !default;
+$header-bg-color-secondary: #ffffff !default;
+
+$section-headings-color: #3772d1 !default;
+$body-text-color: #7a7a7a !default;
+$body-link-color: #de7d0d !default;
 $blockquote-text-color: #819198 !default;
 
 @import "{{ site.theme }}";
